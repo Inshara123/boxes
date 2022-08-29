@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.yellowgreen{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-size:30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+table,td{
+    border: 1px solid lightgoldenrodyellow;
+    margin: auto;
+    
+   
+}
+.broad{
+    width: 400px;
+    height: 80px;
+}
+li{
+    list-style-position: inside;
+}
+li:hover{
+  list-style-type: decimal;
+  background-color: rgb(87, 245, 87);
+  color: azure
+}
+.green{
+    background-color: orange;
+
+}
+.green:hover{
+    background-color: rgba(115, 185, 9, 0.938);
+}
+.broad2{
+    background-color:orange;
+    height: 200px;
+    width: 200px;
+    text-align: justify;
+    font-size:25px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+
+}
+.broad2:hover{
+    background-color: green;
+    color: black;
+
+}
+
